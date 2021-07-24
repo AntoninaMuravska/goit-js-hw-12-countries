@@ -16,3 +16,50 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+
+.input-container {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.country-name {
+  text-align: center;
+  font-size: 50px;
+}
+
+.country-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.country-description {
+  margin-right: 30px;
+  font-size: 30px;
+}
+
+.main-info {
+  font-weight: 700;
+}
+
+.country-list {
+  text-align: start;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.countries-item {
+  display: flex;
+}
+
+.country-image {
+  margin-right: 10px;
+}
+
+.list-container {
+  display: flex;
+  justify-content: center;
+}
